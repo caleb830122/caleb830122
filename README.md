@@ -1,5 +1,5 @@
 # Hi I'm Caleb 👋
-- 💻 Java, JavaScript, HTML, CSS, Node.js, SQL
+- 💻 Java, JavaScript, Spring Boot, React, Node.js, SQL
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Full Stack, Mobile App development
 - 📫 Let's connect!
