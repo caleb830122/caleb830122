@@ -1,7 +1,7 @@
 # Hi I'm Caleb 👋
-- 💻 Java, JavaScript, Spring Boot, React, Node.js, SQL
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Full Stack, Mobile App development
+- 💻 Skilled in Java, JavaScript, Spring Boot, React, Node.js, and SQL
+- 👀 Currently expanding my expertise in Full-Stack and iOS Mobile App Development
+- 🌱 Passionate about building impactful, user-friendly applications
 - 📫 Let's connect!
     - [![Linkedin](https://github.com/caleb830122/caleb830122/raw/main/icons/linkedin.svg)](http://www.linkedin.com/in/calebchangzjc)
     - [![Github](https://github.com/caleb830122/caleb830122/raw/main/icons/git-hub.svg)](https://github.com/caleb830122?tab=repositories)
